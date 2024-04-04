@@ -109,14 +109,14 @@ iframe{
         justify-content: center;
     }
     p{
-        font-size: 1.5rem/* 36px */;
+        font-size: 1rem/* 36px */;
         line-height: 0.5rem/* 40px */;
-        color: #82815B;
+        color: #000000;
         font-weight: 400;
         text-align: center;   
     }
     span{
-        font-size: 1.5rem;
+        font-size: 1rem;
         line-height: 2.5rem;
         width: 8%;
     }
@@ -144,7 +144,7 @@ iframe{
         margin-bottom: 8rem;
     }
     button:hover{
-        background-color: #82815B;
+        background-color: #830505;
         color: #fff8f0;
     }
     body {
@@ -160,20 +160,20 @@ iframe{
     }
     
     .img-rose{
-        max-width: 95%;
+        max-width: 85%;
     }
     #img-rosa{
-        width: 95%; /* Establece el ancho al 100% del contenedor */
-        max-width: 95%;
+        width: 85%; /* Establece el ancho al 100% del contenedor */
+        max-width: 85%;
     }
     .flex {
         display: flex;
         justify-content: center;
     }
     p{
-        font-size: 1.8rem/* 36px */;
+        font-size: 1rem/* 36px */;
         line-height: 0.5rem/* 40px */;
-        color: #82815B;
+        color: #000000;
         font-weight: 400;
         text-align: center;   
     }
@@ -202,8 +202,8 @@ iframe{
         margin-bottom: 8rem;
     }
     button:hover{
-        background-color: #82815B;
-        color: #fff8f0;
+        background-color: #830505;
+        color: #fff;
     }
     .second-size{
         font-size: 3rem/* 60px */;
@@ -239,16 +239,16 @@ iframe{
         justify-content: center;
     }
     p{
-        font-size: 1.5rem/* 36px */;
+        font-size: 1.2rem/* 36px */;
         line-height: 0.5rem/* 40px */;
-        color: #82815B;
+        color: #000000;
         font-weight: 400;
         text-align: center;   
     }
     span{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         line-height: 2.5rem;
-        width: 8%;
+        width: 5%;
     }
     #img-rosa-one{
         width: 50%; /* Establece el ancho al 100% del contenedor */
@@ -274,8 +274,8 @@ iframe{
         margin-bottom: 8rem;
     }
     button:hover{
-        background-color: #82815B;
-        color: #fff8f0;
+        background-color: #830505;
+        color: #fff;
     }
     body {
         overflow-x: hidden;
