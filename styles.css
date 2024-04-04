@@ -109,7 +109,7 @@ iframe{
         justify-content: center;
     }
     p{
-        font-size: 1rem/* 36px */;
+        font-size: 1.2rem/* 36px */;
         line-height: 0.5rem/* 40px */;
         color: #000000;
         font-weight: 400;
@@ -171,7 +171,7 @@ iframe{
         justify-content: center;
     }
     p{
-        font-size: 1rem/* 36px */;
+        font-size: 1.5rem/* 36px */;
         line-height: 0.5rem/* 40px */;
         color: #000000;
         font-weight: 400;
@@ -206,7 +206,7 @@ iframe{
         color: #fff;
     }
     .second-size{
-        font-size: 3rem/* 60px */;
+        font-size: 2.2rem/* 60px */;
         line-height: 0.5rem;
     }
     body {
@@ -215,7 +215,7 @@ iframe{
 }
 @media (max-width: 768px) {
     button {
-        width: 50%;
+        width: 70%;
     }
     .space-title{
         margin-bottom: 8rem;
@@ -228,7 +228,7 @@ iframe{
     }
     
     .img-rose{
-        max-width: 95%;
+        max-width: 85%;
     }
     #img-rosa{
         width: 95%; /* Establece el ancho al 100% del contenedor */
