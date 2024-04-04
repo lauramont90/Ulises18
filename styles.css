@@ -7,7 +7,7 @@ body {
     font-family: 'MiFuentePersonalizada', sans-serif;
     max-width: 100%;
     background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,0.7849462365591398) 0%, rgba(170,0,0,0.7698924731182796) 87%);
+background: linear-gradient(90deg, rgba(0,0,0,0.7849462365591398) 0%, rgba(255,255,255,0.7698924731182796) 87%);
 }
 
 /* Otras reglas CSS que utilicen la fuente personalizada */
@@ -60,18 +60,19 @@ button{
     margin-top: 2rem/* 32px */;
     font-size: 2.25rem/* 36px */;
     line-height: 2.5rem/* 40px */;
-    background-color: #fff8f0;
+    background-color: #fdfdfd;
     text-align: center;
     width: 25%;
     padding-top: 0.75rem/* 12px */;
     padding-bottom: 0.75rem/* 12px */;
     font-family: 'MiFuentePersonalizada', sans-serif;
-    color: #82815B;
+    color: #830505;
     margin-bottom: 60px;
+
 
 } 
 button:hover{
-    background-color: #82815B;
+    background-color: #830505;
     color: #fff8f0;
 }
 iframe{

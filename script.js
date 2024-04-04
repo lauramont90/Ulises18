@@ -46,7 +46,7 @@ botonGoogleMaps.addEventListener("click", function() {
 });
 botonSpotify.addEventListener("click", function() {
     // Abre la URL de la lista de reproducción en una nueva pestaña
-    window.open("https://spotify.link/L1ENKQXv5Db");
+    window.open("https://open.spotify.com/playlist/2PxPNXXCXINLncu7DUkFb1?si=b3675a77ef324f0c");
 });
 // Agrega un manejador de eventos al botón
 botonWhatsappMenu.addEventListener("click", function() {
